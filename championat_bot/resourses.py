@@ -1,4 +1,4 @@
-TOKEN = '7133298966:AAHDrHYYSlGnuSlM3ii_UGcv7Z1szsid_qk'
+TOKEN = ''
 
 main_url = "https://www.championat.com"
 
